@@ -13,11 +13,13 @@
 ### B3F:
 ![](https://i.imgur.com/n1RgFLl.png)
 
-- Pick up the two keys and open the door. Fight the slime at I4 and open the door behind it, then take the DEF+1.
-- Fight the crow at H1 and take the four keys, go back to where you got the DEF+1, and go through the doors.
-- Fight the mouse at B4, head right, open the two doors and grab the two ATK+1. Go down to B4F.
+- Open the first door. Fight the slime and open the door behind it, then take the +1 DEF.
+- Fight the crow to the left and take the four keys then go back to where you got the +1 DEF.
+- Go through the doors and fight the mouse, then head right and open the two doors and grab the two +1 ATK. Go down to B4F.
 
 <br>
 
-### B3F:
+### B4F:
 ![](https://i.imgur.com/n1RgFLl.png)
+- From the staircase head right and take the first door. Fight the mice at C4 and F5 and continue past the skeletons.
+- Use the pickaxe in this room to gain access to the room above, grabbing all the items.
