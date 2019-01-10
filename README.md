@@ -21,7 +21,7 @@
 <br>
 
 ### B4F:
-- From the staircase head right and take the first door. Fight the mice at C4 and F5 and continue past the skeletons.
+- Head right and open the first door. Fight the two mice then continue through the doors past the skeletons.
 - Use the pickaxe in this room to gain access to the room above, grabbing all the items.
 
 ![](https://i.imgur.com/GS3Hsqq.png)
