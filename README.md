@@ -44,18 +44,23 @@
 <br>
 
 ### Floor 5:
-- Head back to the room where you used the pickaxe. Use a blue key on the bottom door and a yellow key to the right, then go to floor 5.
+- Go up and open the door, fight the 2 slimes and mouse.
+- Make your way up and around the skeleton, using two yellow keys. Open the silver door and grab the items (not the heart outside the room though).
+- Fight the goblin blocking the way to floor 6 and head down.
 
 ![](https://i.imgur.com/CMrcnK2.png)
 
 <br>
 
 ### Floor 6:
-- Take out the crows on L4 and L6 for the ATK+1. Slimes and mice can no longer hurt you, so remove on sight from now on. For clarity, "on sight" means reachable without having to open any doors or pick up any hearts.
+- Take out the two crows for the +1 ATK.
+- Slimes and mice can no longer hurt you, so remove on sight from now on. For clarity, "on sight" means reachable without having to open any doors or pick up any hearts.
 
 ![](https://i.imgur.com/tKdgbDr.png)
 
 <br>
 
 ### Floors 3-6:
-- Take out the crows on L4 and L6 for the ATK+1. Slimes and mice can no longer hurt you, so remove on sight from now on. For clarity, "on sight" means reachable without having to open any doors or pick up any hearts.
+- Sweep back through floors 3-6 for all reachable slimes and mice that aren't blocked behind doors/other enemies.
+- On floor 5 buy the three keys from the fairy for 100G.
+- Once you've cleaned them all up, you should have 222/400 HP, 27 ATK, 24 DEF, 40 SHIELD, 148G, and 6 yellow keys.
