@@ -53,7 +53,7 @@
 <br>
 
 ### Floor 6:
-- Take out the two crows for the +1 ATK.
+- Take out the two crows for the +1 ATK then the two mice.
 
 ![](https://i.imgur.com/tKdgbDr.png)
 
