@@ -5,7 +5,7 @@
 ## Area 1 (Cave):
 
 ### Outside the dungeon
-- Play on Hard difficulty to be able to see the True End
+- Hard difficulty is required to see the True End, but unless you're a masochist I recommend playing on Normal difficulty
 - Complete or skip the prologue
 - Buy the sword, shield, and pickaxe from the item shop to the left (-300G)
 
