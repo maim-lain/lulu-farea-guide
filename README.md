@@ -63,4 +63,4 @@
 - Slimes and mice can no longer hurt you, so remove on sight from now on. For clarity, "on sight" means reachable without having to open any doors or pick up any hearts.
 - Sweep back through floors 3-6 for all reachable slimes and mice that aren't blocked behind doors/other enemies.
 - On floor 5 buy the three keys from the fairy for 100G.
-- Once you've cleaned them all up, you should have 222/400 HP, 27 ATK, 24 DEF, 40 SHIELD, 148G, and 6 yellow keys.
+- Once you've cleaned them all up, you should have 222/400 HP, 27 ATK, 24 DEF, 40 SHIELD, 48G, and 6 yellow keys.
