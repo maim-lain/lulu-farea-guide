@@ -5,6 +5,7 @@
 ## Area 1 (Cave):
 
 ### Outside the dungeon
+- Play on Hard difficulty to be able to see the True End
 - Complete or skip the prologue
 - Buy the sword, shield, and pickaxe from the item shop to the left (-300G)
 
